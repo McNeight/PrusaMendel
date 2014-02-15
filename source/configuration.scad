@@ -13,7 +13,12 @@
 // Uncomment for metric settings
 // METRIC METRIC METRIC METRIC METRIC METRIC METRIC METRIC 
 
-include <metric.scad>;
+//include <metric.scad>;
+
+// Uncomment for imperial settings
+// IMPERIAL IMPERIAL IMPERIAL IMPERIAL IMPERIAL IMPERIAL IMPERIAL 
+
+include <sae.scad>;
 
 // CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM CUSTOM
 
